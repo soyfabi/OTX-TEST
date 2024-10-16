@@ -16,5 +16,4 @@ Discord: Reason#2913
   <summary>Compiling on Ubuntu 22.04 - Libs:</summary>
 
   ```bash
-  sudo apt install g++ libcrypto++-dev libcrypto++-doc libcrypto++-utils \
-  libpugixml-dev libmysqlclient-dev libfmt-dev liblua5.2-dev libboost-all-dev -y
+  sudo apt install g++ libcrypto++-dev libcrypto++-doc libcrypto++-utils libpugixml-dev libmysqlclient-dev libfmt-dev liblua5.2-dev libboost-all-dev -y
