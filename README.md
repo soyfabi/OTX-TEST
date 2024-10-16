@@ -20,3 +20,10 @@ Discord: Reason#2913
     as some form of output device is recommended.
   </p>
 </details>
+
+<details open>
+  <summary>Compiling on Ubuntu 22.04 - Libs:</summary>
+  <p>
+    ```sudo apt install g++ libcrypto++-dev libcrypto++-doc libcrypto++-utils libpugixml-dev libmysqlclient-dev libfmt-dev liblua5.2-dev libboost-all-dev -y```
+  </p>
+</details>
