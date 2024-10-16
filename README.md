@@ -12,7 +12,7 @@ Whatsapp: +5213173832937<br><br>
 - <b>Reason(English & Portuguese):</b><br>
 Discord: Reason#2913
 
-<details open>
+<details>
   <summary>System Requirements</summary>
   <p>
     Requires a computer running an operating system. The computer must have some
