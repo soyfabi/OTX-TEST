@@ -13,11 +13,11 @@ Whatsapp: +5213173832937<br><br>
 Discord: Reason#2913
 
 <details>
-  <summary>System Requirements</summary>
-  <p>
+  <summary>Compiling on Ubuntu 22.04 - Libs:</summary>
+  ```bash
     Requires a computer running an operating system. The computer must have some
     memory and ideally some kind of long-term storage. An input device as well
     as some form of output device is recommended.
-  </p>
-</details>
+  
+</details>```
 
