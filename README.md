@@ -14,10 +14,8 @@ Discord: Reason#2913
 
 <details>
   <summary>Compiling on Ubuntu 22.04 - Libs:</summary>
-  ```bash
-    Requires a computer running an operating system. The computer must have some
-    memory and ideally some kind of long-term storage. An input device as well
-    as some form of output device is recommended.
   
-</details>```
+    sudo apt install g++ libcrypto++-dev libcrypto++-doc libcrypto++-utils libpugixml-dev libmysqlclient-dev libfmt-dev liblua5.2-dev libboost-all-dev -y.
+  
+</details>
 
