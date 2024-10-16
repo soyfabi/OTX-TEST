@@ -12,18 +12,10 @@ Whatsapp: +5213173832937<br><br>
 - <b>Reason(English & Portuguese):</b><br>
 Discord: Reason#2913
 
-<details open>
+<details>
   <summary>Compiling on Ubuntu 22.04 - Libs:</summary>
-  <p>
-    Requires a computer running an operating system. The computer must have some
-    memory and ideally some kind of long-term storage. An input device as well
-    as some form of output device is recommended.
-  </p>
-</details>
 
-<details open>
-  <summary>Compiling on Ubuntu 22.04 - Libs:</summary>
-  <p>
-    ```sudo apt install g++ libcrypto++-dev libcrypto++-doc libcrypto++-utils libpugixml-dev libmysqlclient-dev libfmt-dev liblua5.2-dev libboost-all-dev -y```
-  </p>
-</details>
+  ```bash
+  sudo apt install g++ libcrypto++-dev libcrypto++-doc libcrypto++-utils \
+  libpugixml-dev libmysqlclient-dev libfmt-dev liblua5.2-dev libboost-all-dev -y
+</details> ```
